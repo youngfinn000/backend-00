@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Pinza",
+    "category": "Pinza Reforzada Marca Dogo",
+    "price": 500,
+    "status": true,
+    "code": "pinza24",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "Martillo",
+    "category": "Martillo marca Mandarin",
+    "price": 700,
+    "status": true,
+    "code": "mar24",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Tenaza",
+    "category": "Tenaza Marca Dogo",
+    "price": 600,
+    "status": true,
+    "code": "tena24",
+    "stock": 100
+  },
+  {
+    "id": 4,
+    "title": "Alicate",
+    "category": "Alicate mango azul",
+    "price": 450,
+    "status": true,
+    "code": "ali24",
+    "stock": 100
+  },
+  {
+    "id": 5,
+    "title": "Caja de herramientas",
+    "category": "Caja de herramientas",
+    "price": 1100,
+    "status": true,
+    "code": "caja24",
+    "stock": 100
+  },
+  {
+    "id": 6,
+    "title": "Nivel",
+    "category": "Nivel plastico Marca Dogo",
+    "price": 575,
+    "status": true,
+    "code": "nivel24",
+    "stock": 100
+  },
+  {
+    "id": 7,
+    "title": "Destornillador",
+    "category": "Destornillador Marca Dogo",
+    "price": 620,
+    "status": true,
+    "code": "destor24",
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "title": "Metro",
+    "category": "Metro marca Hilux",
+    "price": 500,
+    "status": true,
+    "code": "metro24",
+    "stock": 100
+  },
+  {
+    "id": 9,
+    "title": "Pinza de Punta",
+    "category": "Pinza de Punta",
+    "price": 500,
+    "status": true,
+    "code": "pinpun24",
+    "stock": 790
+  },
+  {
+    "id": 10,
+    "title": "Destornillador Philip",
+    "category": "Philip imantado marcad dogo",
+    "price": 500,
+    "status": true,
+    "code": "desphi24",
+    "stock": 100
+  },
+  {
+    "id": 11,
+    "title": "Pala",
+    "category": "Pala cabo de madera",
+    "price": "1300",
+    "status": "true",
+    "code": "pala24",
+    "stock": "50"
+  },
+  {
+    "id": 12,
+    "title": "Cortadora de Cesped",
+    "category": "Cortadora de Cesped",
+    "price": "5000",
+    "status": "true",
+    "code": "corces",
+    "stock": 6
+  }
+]

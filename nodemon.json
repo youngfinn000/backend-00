@@ -1,0 +1,5 @@
+{
+  "watch": ["scr"],
+  "ext": "js,json",
+  "exec": "node scr/app.js"
+}
